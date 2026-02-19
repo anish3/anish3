@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Anish Tiwari
 
-<!--
-**anish3/anish3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+📍 Indore, Madhya Pradesh  
+💻 Frontend Developer | Learning AI/ML  
+🚀 Passionate about building scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💡 Strong foundation in C++, Java, and Python  
+- 🌐 Skilled in Web Development (HTML, CSS, JavaScript, React)  
+- 🤖 Currently exploring Artificial Intelligence & Machine Learning  
+- 🧠 Strong analytical and mathematical thinking  
+- 👥 Leadership qualities with confident decision-making ability  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C++ | Java | Python | JavaScript  
+
+**Frontend:**  
+HTML | CSS | React.js  
+
+**Backend & Database:**  
+Node.js | MySQL | MongoDB  
+
+**Tools:**  
+Git | GitHub  
+
+---
+
+## 📌 Current Focus
+
+- 🔥 Improving DSA problem-solving skills  
+- 🚀 Building full-stack projects  
+- 🤖 Learning and implementing AI/ML concepts  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: anishtiwarib59@gmail.com  
+- 💼 LinkedIn: (Add your LinkedIn link here)
+
+---
+
+⭐ “Consistency beats intensity. Keep building.”
