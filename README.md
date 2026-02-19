@@ -1,8 +1,8 @@
 <h1 align="center">Anish Tiwari</h1>
-<h3 align="center">Frontend Developer • AI/ML Enthusiast • CSE Student</h3>
+<h3 align="center">Frontend Developer • AI/ML Learner • DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Frontend+Developer;Learning+AI%2FML;C%2B%2B+%7C+Java+%7C+Python;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Frontend+Developer;DSA+Problem+Solver;Learning+AI%2FML;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -12,9 +12,19 @@
 - 🎓 B.Tech CSE (3rd Year)
 - 💻 Strong in C++, Java & Python
 - 🌐 Frontend Developer (React, JS, HTML, CSS)
+- 🧠 DSA Problem Solver (Active on LeetCode)
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🧠 Strong mathematical & analytical thinking
-- 👥 Leadership & confident decision-making skills
+- 👥 Strong leadership & analytical thinking
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+<a href="https://leetcode.com/u/Anish_404E/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
 
 ---
 
@@ -45,9 +55,9 @@
 
 ## 🎯 Current Focus
 
-- 🚀 Building Production Level Frontend Projects
-- 📈 Improving DSA & Problem Solving
-- 🤖 Applying AI/ML in Real-World Use Cases
+- 🚀 Building Production-Level Frontend Projects
+- 📈 Improving Data Structures & Algorithms
+- 🤖 Applying AI/ML in Real-World Projects
 
 ---
 
@@ -59,7 +69,7 @@
 </a>
 </p>
 
-📧 Email: anishtiwarib59@gmail.com
+📧 Email: anishtiwarib59@gmail.com  
 
 ---
 
@@ -69,4 +79,4 @@
 
 ---
 
-⭐ "Discipline + Consistency = Success"
+⭐ "Consistency + Discipline + Hard Work = Growth"
