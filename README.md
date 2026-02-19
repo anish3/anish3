@@ -44,7 +44,7 @@ Git | GitHub
 ## 📫 Connect With Me
 
 - 📧 Email: anishtiwarib59@gmail.com  
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/anish-tiwari-8b17582b9/
 
 ---
 
